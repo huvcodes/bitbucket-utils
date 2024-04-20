@@ -5,9 +5,10 @@
 #
 # Parameters to run this script
 #
-# 1. Provide the project key or name for the variable $project
-# 2. Provide either the password or api token to authenticate
-# 3. Provide your organisation's bitbucket base url
+# 1. Provide the project key or name for the variable
+# 2. Provide either the username or id or email address
+# 3. Provide either the password or api token to authenticate
+# 4. Provide your organisation's bitbucket base url
 # ==========================================================================================================
 
 # $ErrorActionPreference = "Stop"
